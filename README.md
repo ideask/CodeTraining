@@ -3,7 +3,7 @@
 ## 练习环境C-Free
 为了方便我们调试代码，windows下我们用一个比较轻量级的IDE：C-free
 [下载地址](https://www.7down.com/soft/3571.html)
-## 链表(leetcode)
+## LinkedList(leetcode)
 | # | Title | Difficulty |
 :--:|:--:|:--:
 206|Reverse Linked List|easy
@@ -17,3 +17,7 @@
 21|Merge Two Sorted Lists|easy
 23|Merge k Sorted Lists(solve1)|hard
 23|Merge k Sorted Lists(solve2)|hard
+## Beginning (Lintcode)
+| # | Title | Difficulty |
+:--:|:--:|:--:
+627|Longest Palindrome|easy
