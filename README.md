@@ -21,3 +21,6 @@
 | # | Title | Difficulty |
 :--:|:--:|:--:
 627|Longest Palindrome|easy
+13|Implement strStr()|easy
+415|Valid Palindrome|medium
+200|Longest Palindromic Substring|medium
