@@ -21,6 +21,6 @@
 | # | Title | Difficulty |
 :--:|:--:|:--:
 627|Longest Palindrome|easy
-13|Implement strStr()|easy
+13|Implement strStr()|easy(整理KMP笔记，完成KMP method)
 415|Valid Palindrome|medium
-200|Longest Palindromic Substring|medium
+200|Longest Palindromic Substring|medium(整理Manacher笔记，完善brute-force method)
