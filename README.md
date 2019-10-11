@@ -1,8 +1,6 @@
 # code_training
-目标：熟悉算法以及C++日常训练
-## 练习环境C-Free
-为了方便我们调试代码，windows下我们用一个比较轻量级的IDE：C-free
-[下载地址](https://www.7down.com/soft/3571.html)
+目标：熟悉算法以及C++和python日常训练
+
 ## LinkedList(leetcode)
 | # | Title | Difficulty |
 :--:|:--:|:--:
